@@ -36,4 +36,7 @@ description: Breve descrição
 
 O App.jsx(localizado em src/App.jsx) é o componente principal da aplicação. Ele importa os dados do gameList.jse os exibidos na tela, percorrendo o array e criando os cartões interativos para cada jogo.
 
->>>>>>> a758cbea3023702ab3f20636945f19766dee2ad3
+Link para o projeto hospedado no Vercel:
+
+🎮
+https://react-biblioteca-de-jogos-mocha.vercel.app/
