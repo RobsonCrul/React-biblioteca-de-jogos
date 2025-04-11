@@ -13,6 +13,11 @@ Currently, two official plugins are available:
 
 Este projeto é uma biblioteca de jogos desenvolvida em React , onde exibe uma coleção de títulos de forma dinâmica e responsiva.
 
+Link para o projeto hospedado no Vercel:
+
+🎮
+https://react-biblioteca-de-jogos-mocha.vercel.app/
+
 🚀 Sobre o projeto
 A aplicação lista diversos jogos, exibindo suas informações principais, como:
 - Nome e Ano de lançamento
@@ -36,7 +41,4 @@ description: Breve descrição
 
 O App.jsx(localizado em src/App.jsx) é o componente principal da aplicação. Ele importa os dados do gameList.jse os exibidos na tela, percorrendo o array e criando os cartões interativos para cada jogo.
 
-Link para o projeto hospedado no Vercel:
 
-🎮
-https://react-biblioteca-de-jogos-mocha.vercel.app/
